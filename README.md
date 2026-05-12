@@ -28,4 +28,16 @@ The main goal of this project is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0027-remove-element/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0013-roman-to-integer/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0013-roman-to-integer/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
