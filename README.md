@@ -23,6 +23,7 @@ The main goal of this project is to:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0027-remove-element/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -31,6 +32,7 @@ The main goal of this project is to:
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0013-roman-to-integer/) | Easy |
 ## Math
 | Problem Name | Difficulty |
