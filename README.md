@@ -27,6 +27,7 @@ The main goal of this project is to:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0066-plus-one/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@ The main goal of this project is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0066-plus-one/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
