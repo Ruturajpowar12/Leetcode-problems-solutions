@@ -44,6 +44,7 @@ The main goal of this project is to:
 | [0007-reverse-integer](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0066-plus-one/) | Easy |
+| [0258-add-digits](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0258-add-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -56,5 +57,10 @@ The main goal of this project is to:
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0258-add-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
