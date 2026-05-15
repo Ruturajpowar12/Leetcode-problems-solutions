@@ -24,6 +24,7 @@ The main goal of this project is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0035-search-insert-position/) | Easy |
@@ -51,6 +52,7 @@ The main goal of this project is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +66,8 @@ The main goal of this project is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0258-add-digits/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
