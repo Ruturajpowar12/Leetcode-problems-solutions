@@ -53,6 +53,7 @@ The main goal of this project is to:
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0058-length-of-last-word](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0058-length-of-last-word/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
