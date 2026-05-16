@@ -48,6 +48,7 @@ The main goal of this project is to:
 | [0066-plus-one](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0066-plus-one/) | Easy |
 | [0258-add-digits](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0258-add-digits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [1185-day-of-the-week](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/1185-day-of-the-week/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
