@@ -53,6 +53,7 @@ The main goal of this project is to:
 | [0258-add-digits](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0263-ugly-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0728-self-dividing-numbers](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1185-day-of-the-week](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/1185-day-of-the-week/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
