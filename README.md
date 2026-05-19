@@ -42,6 +42,7 @@ The main goal of this project is to:
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [2540-minimum-common-value](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/2540-minimum-common-value/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -54,6 +55,7 @@ The main goal of this project is to:
 | [0263-ugly-number](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0263-ugly-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0728-self-dividing-numbers/) | Easy |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1185-day-of-the-week](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/1185-day-of-the-week/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
