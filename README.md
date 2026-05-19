@@ -102,4 +102,8 @@ The main goal of this project is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2485-find-the-pivot-integer](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
