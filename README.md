@@ -37,6 +37,7 @@ The main goal of this project is to:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0344-reverse-string](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0344-reverse-string/) | Easy |
 | [2540-minimum-common-value](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/2540-minimum-common-value/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -69,6 +70,7 @@ The main goal of this project is to:
 | [0014-longest-common-prefix](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0344-reverse-string](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0344-reverse-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
