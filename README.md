@@ -72,6 +72,7 @@ The main goal of this project is to:
 | [0058-length-of-last-word](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0344-reverse-string](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0709-to-lower-case](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0709-to-lower-case/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
