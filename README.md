@@ -99,6 +99,7 @@ The main goal of this project is to:
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -116,4 +117,8 @@ The main goal of this project is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
