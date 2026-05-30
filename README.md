@@ -56,6 +56,7 @@ The main goal of this project is to:
 | [0258-add-digits](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0263-ugly-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0415-add-strings](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0415-add-strings/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1185-day-of-the-week](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/1185-day-of-the-week/) | Easy |
@@ -71,6 +72,7 @@ The main goal of this project is to:
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0344-reverse-string](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0344-reverse-string/) | Easy |
+| [0415-add-strings](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0415-add-strings/) | Easy |
 | [0709-to-lower-case](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 ## Binary Search
@@ -88,6 +90,7 @@ The main goal of this project is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0258-add-digits/) | Easy |
+| [0415-add-strings](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0415-add-strings/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
