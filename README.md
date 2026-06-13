@@ -60,6 +60,7 @@ The main goal of this project is to:
 | [0728-self-dividing-numbers](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1185-day-of-the-week](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/1185-day-of-the-week/) | Easy |
+| [2235-add-two-integers](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/2485-find-the-pivot-integer/) | Easy |
