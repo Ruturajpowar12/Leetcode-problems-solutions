@@ -117,6 +117,7 @@ The main goal of this project is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0175-combine-two-tables/) | Easy |
+| [0196-delete-duplicate-emails](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
