@@ -79,6 +79,7 @@ The main goal of this project is to:
 | [0709-to-lower-case](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,4 +139,16 @@ The main goal of this project is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0206-reverse-linked-list/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 <!---LeetCode Topics End-->
