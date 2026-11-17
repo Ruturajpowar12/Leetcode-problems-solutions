@@ -29,6 +29,7 @@ The main goal of this project is to:
 | [0027-remove-element](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0066-plus-one/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0704-binary-search](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0704-binary-search/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2540-minimum-common-value](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/2540-minimum-common-value/) | Easy |
@@ -151,4 +152,8 @@ The main goal of this project is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
