@@ -40,6 +40,7 @@ The main goal of this project is to:
 | [0027-remove-element](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0344-reverse-string](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0344-reverse-string/) | Easy |
+| [0443-string-compression](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0443-string-compression/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2540-minimum-common-value](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/2540-minimum-common-value/) | Easy |
 ## Hash Table
@@ -78,6 +79,7 @@ The main goal of this project is to:
 | [0058-length-of-last-word](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0344-reverse-string](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0415-add-strings](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0415-add-strings/) | Easy |
+| [0443-string-compression](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0443-string-compression/) | Medium |
 | [0709-to-lower-case](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0709-to-lower-case/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
