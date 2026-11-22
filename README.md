@@ -30,6 +30,7 @@ The main goal of this project is to:
 | [0035-search-insert-position](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0169-majority-element](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0169-majority-element/) | Easy |
 | [0704-binary-search](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0704-binary-search/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2540-minimum-common-value](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/2540-minimum-common-value/) | Easy |
@@ -48,6 +49,7 @@ The main goal of this project is to:
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0169-majority-element](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0169-majority-element/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [2540-minimum-common-value](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/2540-minimum-common-value/) | Easy |
 ## Math
@@ -117,6 +119,7 @@ The main goal of this project is to:
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0169-majority-element/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -134,6 +137,7 @@ The main goal of this project is to:
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -165,4 +169,12 @@ The main goal of this project is to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Ruturajpowar12/Leetcode-problems-solutions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
